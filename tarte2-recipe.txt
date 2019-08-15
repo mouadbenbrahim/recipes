@@ -1,1 +1,2 @@
 fichier azjouter avec --amend
+ligne ajouter sera revert
